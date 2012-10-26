@@ -1,0 +1,23 @@
+[core]
+	askpass = git-password
+	editor = nano
+	pager = 
+	quotepath = false
+
+[alias]
+	st = status -s
+	co = checkout
+	ci = commit
+	b = branch
+	cp = cherry-pick -x
+	cache = diff --cached
+	
+[user]
+	name = Cyril Nikolaev
+	email = cyril@nichtverstehen.de
+	
+[color]
+	ui = true
+	
+[push]
+	default = upstream

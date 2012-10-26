@@ -1,0 +1,7 @@
+[ui]
+username = Cyril Nikolaev <cyril@nichtverstehen.de>
+
+[extensions]
+hgext.bookmarks =
+hggit =
+convert =
