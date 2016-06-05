@@ -3,5 +3,5 @@ username = Cyril Nikolaev <cyril@nichtverstehen.de>
 
 [extensions]
 hgext.bookmarks =
-hggit =
+hggit = /usr/local/hg-git/hggit
 convert =

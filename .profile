@@ -1,4 +1,6 @@
 export PATH=~/.bin:~/Library/Haskell/bin:$PATH
+export PATH="/usr/local/heroku/bin:$PATH"
+
 export CLICOLOR=1
 export NODE_PATH=/usr/local/lib/node_modules
 export GTK_PATH=/usr/local/lib/gtk-2.0/
@@ -9,6 +11,7 @@ export NDK_HOME=/Developer/android-ndk
 export PATH=$PATH:$SDK_HOME/tools:$SDK_HOME/platform-tools:$NDK_HOME
 export CPLUS_INCLUDE_PATH=~/boost
 export ANDROID_HOME=$SDK_HOME
+export PYTHONPATH=~/Library/Python/2.7/site-packages/
 
 source /usr/local/etc/bash_completion
 
